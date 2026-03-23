@@ -1,7 +1,7 @@
 # Deep Learning and its Application in Computer Vision
 This repository contains some assignments my group doing in this subject. 
 
-## 👥 Group 10
+## Group 10
 
 ### Members
 - **Tran Phan Quoc Dat** (2470077) – *Leader*
@@ -10,7 +10,7 @@ This repository contains some assignments my group doing in this subject.
 - **Pham Duy Tung** (2470753)
 
 ### Instructor
-- Dr. Le Thanh Sach
+- **Dr. Le Thanh Sach**
 
 # Reference Video Course
 Languages used: Python 
